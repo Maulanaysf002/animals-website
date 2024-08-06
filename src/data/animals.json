@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "kucing",
+    "details": {
+      "name": "kucing persia",
+      "desc": "",
+      "img": "images/Kucing-Persia.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "category": "kucing",
+    "details": {
+      "name": "kucing Anggora",
+      "desc": "",
+      "img": "images/Kucing-Persia.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "category": "anjing",
+    "details": {
+      "name": "bulldog",
+      "desc": "",
+      "img": "images/Kucing-Persia.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "category": "kambing",
+    "details": {
+      "name": "bulldog",
+      "desc": "",
+      "img": "images/Kucing-Persia.jpg"
+    }
+  }
+]
